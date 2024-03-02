@@ -19,7 +19,7 @@
         <a href="#tecnologia">Tecnologias</a>
     </li>
 </ul>
-
+<br>
 #### :rocket: Status
 <p id="status">
 ``` em construçao
