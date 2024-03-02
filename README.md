@@ -3,6 +3,7 @@
     <li>
         <a href="#">Bem Vindo</a>
     </li>
+    <br>
     <li>
         <a href="#status">Status</a>
     </li>
